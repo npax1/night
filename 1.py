@@ -22,7 +22,6 @@ for i in my_list:
         sum_list[1] += i
     if i % 2 != 0:
         sum_list[2] += i
-    if
 print(f'sum neg {sum_list[0]}')
 print(f'sum even {sum_list[1]}')
 print(f'sum odd {sum_list[2]}')
